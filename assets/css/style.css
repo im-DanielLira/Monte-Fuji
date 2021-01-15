@@ -22,7 +22,7 @@ a{
 
 header{
     height: calc(100vh - 150px);
-    background: no-repeat center/cover url("assets/header-img.jpg");
+    background: no-repeat center/cover url("../img/header-img.jpg");
     
 }
 
@@ -89,7 +89,7 @@ header nav ul li {
 .pacotes h1{
     font-size: 2rem;
     margin: 0;
-    padding: 20px 0;
+    
 }
 
 .pacotes-todos{
