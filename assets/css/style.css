@@ -72,13 +72,13 @@ header nav ul li {
 }
 
 .header-content p{
-    font-size: 12pt;
+    font-size: 11pt;
     font-weight: 500;
     margin-bottom: 50px;
     
 }
 .header-content h1{
-    font-size: 4rem;
+    font-size: 3.8rem;
     font-weight: 600;
 }
 
@@ -187,7 +187,7 @@ header nav ul li {
 
 .servicos h1{
     margin: 40px 0;
-    font-size: 2rem;
+    font-size: 1.8rem;
     margin-bottom: 0px;
 }
 
@@ -199,10 +199,11 @@ header nav ul li {
 .servicos .servicos-card{
     display: flex;
     justify-content: space-evenly;
+    text-align: center;
 }
 
 .servicos .servicos-card p{
-    font-weight: 700;
+    font-weight: 600;
     
 }
 
@@ -262,7 +263,7 @@ header nav ul li {
 }
 
 .contato .contato-card li{
-    font-size: 1rem;
+    font-size: .85rem;
     font-weight: 700;
     color: grey;
     display: flex;
